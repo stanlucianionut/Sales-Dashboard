@@ -16,9 +16,15 @@ This repository features an interactive Power BI dashboard designed to visualize
 
 
 **🛠️ Tools & Technologies**
+
 ⦁	Power BI Desktop – For data modeling, visualization, and dashboard creation
+
 ⦁	Microsoft Excel / CSV – For data preparation and import
+
 ⦁	GitHub – For version control and project documentation
+
+
+
 
 
 
